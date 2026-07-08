@@ -24,7 +24,8 @@ The belt monitors temperature and humidity, tracks GPS location, and uses ultras
 - DHT11 Sensor
 
 ## Architecture
-(Add your workflow diagram image)
+<img width="1250" height="702" alt="WhatsApp Image 2026-07-08 at 10 34 39 AM" src="https://github.com/user-attachments/assets/7e851411-a75d-4c69-ac24-2ce7ea4f5be3" />
+
 
 ## Installation
 1. Clone the repository
