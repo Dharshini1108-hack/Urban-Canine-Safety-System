@@ -29,7 +29,8 @@ The Urban Canine Safety Belt is an IoT-based wearable device attached to dogs fo
 
 ## Architecture
 
-<img width="1250" height="702" alt="WhatsApp Image 2026-07-08 at 10 34 39 AM" src="https://github.com/user-attachments/assets/3a1ed147-009a-474c-973b-8a3cb76c9308" />
+<img width="1250" height="702" alt="WhatsApp Image 2026-07-08 at 10 34 39 AM" src="https://github.com/user-attachments/assets/30e617a9-1e5e-42a1-b81a-4cda488f5683" />
+
 
 
 ## Installation
